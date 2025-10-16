@@ -1,10 +1,5 @@
 # auditmod2xattr — In-Kernel File Modification Logger
 
-**Author:** Rui Gomes  
-**License:** GPLv2  
-**Module name:** `auditmod2xattr`  
-**XATTR name:** `trusted.modification`
-
 ---
 
 ## Overview
